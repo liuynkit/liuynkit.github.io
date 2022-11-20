@@ -18,6 +18,104 @@
     <h1>TTS Trained Results</h1>
     <!-- <p><b>System architecture:</b></p>
     <p><img src="resources/model-arch.png" width="700"></p> -->
+    <h2>English</h2>
+
+    <p>English Phoneme-to-Spectrogram Model:
+    <ol>
+      <li>Structure: FastPitch.</li>
+      <li>Phoneme Codebook(129): IPA.</li>
+      <li>Single-Speaker Model</li>
+      <li>Dataset: LJ-Speech. Single-speaker. 12,500 sentences.</li>
+    </ol>
+    </p>
+    <p>Vocoder:
+      <ol>
+        <li>Structure: Waveglow vs HiFI-GAN</li>
+      </ol>
+    </p>
+    <p>Metrics:
+      <ol>
+        <li>Realtime-Factor = Processing Duration / Audio Duration</li>
+        <li>smaller is better</li>
+      </ol>
+    </p>
+    <table>
+      <thead>
+        <tr>
+          <th>Speaker</th>
+          <th>Transcript</th>
+          <th>FastPitch+WaveGlow</th>
+          <th>Realtime-Factor</th>
+          <th>FastPitch+Hifi-GAN</th>
+          <th>Realtime-Factor</th>
+          <!-- <th>Ground-truth Spectrogram+Vocoder</th> -->
+          <th>Ground-truth Audio</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>LJ-Speaker</td>
+          <td><em>As has been pointed out, the Commission has not resolved all the proposals which could be made. The Commission nevertheless is confident that,</em></td>
+          <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/en/fastpitch_en_waveglow_0_As_has_been_pointed_.wav" type="audio/wav">
+            </audio></td>
+          <td>1.27868</td>
+          <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/en/fastpitch_en_hifigan_0_As_has_been_pointed_.wav" type="audio/wav">
+            </audio></td>
+          <td>0.57165</td>
+          <!-- <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/es/newdecoder_es_gt_pseudo_audio_spker_0_1.wav" type="audio/wav">
+            </audio></td> -->
+          <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/en/LJ050-0276.wav" type="audio/wav">
+            </audio></td>
+        </tr>
+        <tr>
+          <td></td>
+          <td><em>with the active cooperation of the responsible agencies and with the understanding of the people of the United States in their demands upon their President,</em></td>
+          <!-- <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/es/newdecoder_es_transfered_audio_spker_0_2.wav" type="audio/wav">
+            </audio></td> -->
+          <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/en/fastpitch_en_waveglow_1_with_the_active_coop.wav" type="audio/wav">
+            </audio></td>
+          <td>1.91229</td>
+          <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/en/fastpitch_en_hifigan_1_with_the_active_coop.wav" type="audio/wav">
+            </audio></td>
+          <td>0.28386</td>
+          <!-- <td><audio controls class="audio-player" preload="metadata">
+            <source src="resources/audio/plainTTS/es/newdecoder_es_gt_pseudo_audio_spker_0_2.wav" type="audio/wav">
+            </audio></td> -->
+          <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/en/LJ050-0277.wav" type="audio/wav">
+            </audio></td>
+        </tr>
+        <tr>
+          <td></td>
+          <td><em>the recommendations we have here suggested would greatly advance the security of the office without any impairment of our fundamental liberties.</em></td>
+          <!-- <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/es/newdecoder_es_transfered_audio_spker_0_0.wav" type="audio/wav">
+            </audio></td> -->
+          <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/en/fastpitch_en_waveglow_2_the_recommendations_.wav" type="audio/wav">
+            </audio></td>
+          <td>0.94417</td>
+          <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/en/fastpitch_en_hifigan_2_the_recommendations_.wav" type="audio/wav">
+            </audio></td>
+          <td>0.29848</td>
+          <!-- <td><audio controls class="audio-player" preload="metadata">
+            <source src="resources/audio/plainTTS/es/newdecoder_es_gt_pseudo_audio_spker_0_0.wav" type="audio/wav">
+            </audio></td> -->
+          <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/en/LJ050-0278.wav" type="audio/wav">
+            </audio></td>
+        </tr>
+      </tbody>
+    </table>
+
     <h2>Spanish</h2>
 
     <p>Spanish Phoneme-to-Spectrogram Model:
@@ -55,7 +153,7 @@
       </thead>
       <tbody>
         <tr>
-          <td>00 tux</td>
+          <td>tux</td>
           <td><em>Octubre-Noviembre de mil ochocientos settanta y tres.</em></td>
           <!-- <td><audio controls class="audio-player" preload="metadata">
               <source src="resources/audio/plainTTS/es/OctubreNoviembre_de.wav" type="audio/wav">
@@ -153,7 +251,7 @@
       </thead>
       <tbody>
         <tr>
-          <td>01 bernard</td>
+          <td>bernard</td>
           <td><em>Peaux-Rouges n'est pas encore arrivée. Le jour de ma vie a trop duré.</em></td>
           <td><audio controls class="audio-player" preload="metadata">
               <source src="resources/audio/plainTTS/fr/newdecoder_fr_transfered_audio_spker_0_2_2.wav" type="audio/wav">
