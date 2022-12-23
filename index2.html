@@ -13,19 +13,11 @@
   </style>
 </head>
 
-<body> 
+<body>
   <div>
-    <h1>Multi-lingual Multi-speaker TTS Results</h1>
+    <h1>TTS Trained Results</h1>
     <!-- <p><b>System architecture:</b></p>
     <p><img src="resources/model-arch.png" width="700"></p> -->
-    <p>Structure:
-      <ol>
-        <li>Basic Model: VITS + Speaker Encoder + Language Embedding</li>
-        <li>External Speaker Encoder: D-Vector.</li>
-        <li>Language Embed Dim.: 4</li>
-      </ol>
-    </p>
-    
     <p>Metrics:
       <ol>
         <li>Realtime-Factor = Processing Duration / Audio Duration</li>
@@ -38,21 +30,30 @@
     </p>
 
     <h2>English</h2>
+    <p>English Phoneme-to-Spectrogram Model:
     <ol>
-      <li>Dataset: LibriTTS.</li>
-      <li>Speakers: 247.</li>
-      <li>Sentences: 33236.</li>
+      <li>Structure: FastPitch.</li>
+      <li>Phoneme Codebook(129): IPA.</li>
+      <li>Single-Speaker Model</li>
+      <li>Dataset: LJ-Speech. Single-speaker. 12,500 sentences.</li>
     </ol>
-
+    </p>
+    <p>Vocoder:
+      <ol>
+        <li>Waveglow: LJ-Speech pretrained English model.</li>
+        <li>Hifi-GAN: LJ-Speech pretrained English model.</li>
+      </ol>
+    </p>
     <table>
       <thead>
         <tr>
           <th>Speaker</th>
           <th>Transcript</th>
+          <th>FastPitch+WaveGlow</th>
+          <th>Realtime-Factor</th>
           <th>FastPitch+Hifi-GAN</th>
           <th>Realtime-Factor</th>
-          <th>ViTS+D-Vector</th>
-          <th>Realtime-Factor</th>
+          <!-- <th>Ground-truth Spectrogram+Vocoder</th> -->
           <th>Ground-truth Audio</th>
         </tr>
       </thead>
@@ -61,13 +62,13 @@
           <td>LJ-Speaker</td>
           <td><em>As has been pointed out, the Commission has not resolved all the proposals which could be made. The Commission nevertheless is confident that,</em></td>
           <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/en/fastpitch_en_waveglow_0_As_has_been_pointed_.wav" type="audio/wav">
+            </audio></td>
+          <td>1.08552</td>
+          <td><audio controls class="audio-player" preload="metadata">
               <source src="resources/audio/plainTTS/en/fastpitch_en_hifigan_0_As_has_been_pointed_.wav" type="audio/wav">
             </audio></td>
           <td>0.57165</td>
-          <td><audio controls class="audio-player" preload="metadata">
-            <source src="resources/audio/plainTTS/en/vits_grapheme_6_lingual/en_US__vits_As_has_been_pointed_.wav" type="audio/wav">
-          </audio></td>
-          <td>0.47257</td>
           <!-- <td><audio controls class="audio-player" preload="metadata">
               <source src="resources/audio/plainTTS/es/newdecoder_es_gt_pseudo_audio_spker_0_1.wav" type="audio/wav">
             </audio></td> -->
@@ -82,13 +83,13 @@
               <source src="resources/audio/plainTTS/es/newdecoder_es_transfered_audio_spker_0_2.wav" type="audio/wav">
             </audio></td> -->
           <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/en/fastpitch_en_waveglow_1_with_the_active_coop.wav" type="audio/wav">
+            </audio></td>
+          <td>0.68752</td>
+          <td><audio controls class="audio-player" preload="metadata">
               <source src="resources/audio/plainTTS/en/fastpitch_en_hifigan_1_with_the_active_coop.wav" type="audio/wav">
             </audio></td>
           <td>0.28386</td>
-          <td><audio controls class="audio-player" preload="metadata">
-            <source src="resources/audio/plainTTS/en/vits_grapheme_6_lingual/en_US__vits_with_the_active_coop.wav" type="audio/wav">
-          </audio></td>
-          <td>0.06478</td>
           <!-- <td><audio controls class="audio-player" preload="metadata">
             <source src="resources/audio/plainTTS/es/newdecoder_es_gt_pseudo_audio_spker_0_2.wav" type="audio/wav">
             </audio></td> -->
@@ -103,13 +104,13 @@
               <source src="resources/audio/plainTTS/es/newdecoder_es_transfered_audio_spker_0_0.wav" type="audio/wav">
             </audio></td> -->
           <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/en/fastpitch_en_waveglow_2_the_recommendations_.wav" type="audio/wav">
+            </audio></td>
+          <td>0.72257</td>
+          <td><audio controls class="audio-player" preload="metadata">
               <source src="resources/audio/plainTTS/en/fastpitch_en_hifigan_2_the_recommendations_.wav" type="audio/wav">
             </audio></td>
           <td>0.29848</td>
-          <td><audio controls class="audio-player" preload="metadata">
-            <source src="resources/audio/plainTTS/en/vits_grapheme_6_lingual/en_US__vits_the_recommendations_.wav" type="audio/wav">
-          </audio></td>
-          <td>0.06170</td>
           <td><audio controls class="audio-player" preload="metadata">
               <source src="resources/audio/plainTTS/en/LJ050-0278.wav" type="audio/wav">
             </audio></td>
@@ -118,20 +119,29 @@
     </table>
 
     <h2>Spanish</h2>
+    <p>Spanish Phoneme-to-Spectrogram Model:
     <ol>
-      <li>Dataset: MaiLabs.</li>
-      <li>Speakers: 3.</li>
-      <li>Sentences: 27540.</li>
+      <li>Structure: FastPitch.</li>
+      <li>Phoneme Codebook(129): IPA.</li>
+      <li>Single-Speaker Model: Pre-trained Models for English + 100,000 fine-tuned iterations.</li>
+      <li>Dataset: Mailabs. Single-speaker. 8,000 sentences.</li>
     </ol>
+    </p>
+    <p>Vocoder:
+      <ol>
+        <li>Waveglow: LJ-Speech pretrained English model.</li>
+        <li>HiFI-GAN: LJ-Speech pretrained English model + 2,5000 fine-tuned iterations.</li>
+      </ol>
+    </p>
     <table>
       <thead>
         <tr>
           <th>Speaker</th>
           <th>Transcript</th>
           <!-- <th>FastPitch(without Pitch)+Vocoder</th> -->
-          <th>FastPitch+Hifi-GAN</th>
+          <th>FastPitch+WaveGlow</th>
           <th>Realtime-Factor</th>
-          <th>ViTS+D-Vector</th>
+          <th>FastPitch+Hifi-GAN</th>
           <th>Realtime-Factor</th>
           <!-- <th>Ground-truth Spectrogram+Vocoder</th> -->
           <th>Ground-truth Audio</th>
@@ -144,19 +154,14 @@
           <!-- <td><audio controls class="audio-player" preload="metadata">
               <source src="resources/audio/plainTTS/es/OctubreNoviembre_de.wav" type="audio/wav">
             </audio></td> -->
-          <!-- <td><audio controls class="audio-player" preload="metadata">
+          <td><audio controls class="audio-player" preload="metadata">
               <source src="resources/audio/plainTTS/es/fastpitch_es_waveglow_1_OctubreNoviembre_de.wav" type="audio/wav">
             </audio></td>
-          <td>1.27868</td> -->
+          <td>1.27868</td>
           <td><audio controls class="audio-player" preload="metadata">
               <source src="resources/audio/plainTTS/es/fastpitch_es_hifigan_1_OctubreNoviembre_de.wav" type="audio/wav">
             </audio></td>
           <td>0.68345</td>
-
-          <td><audio controls class="audio-player" preload="metadata">
-            <source src="resources/audio/plainTTS/es/vits_grapheme_6_lingual/es_ES_tux_vits_OctubreNoviembre_de.wav" type="audio/wav">
-          </audio></td>
-          <td>0.63439</td>
           <!-- <td><audio controls class="audio-player" preload="metadata">
               <source src="resources/audio/plainTTS/es/newdecoder_es_gt_pseudo_audio_spker_0_1.wav" type="audio/wav">
             </audio></td> -->
@@ -170,18 +175,14 @@
           <!-- <td><audio controls class="audio-player" preload="metadata">
               <source src="resources/audio/plainTTS/es/newdecoder_es_transfered_audio_spker_0_2.wav" type="audio/wav">
             </audio></td> -->
-          <!-- <td><audio controls class="audio-player" preload="metadata">
+          <td><audio controls class="audio-player" preload="metadata">
               <source src="resources/audio/plainTTS/es/fastpitch_es_waveglow_0_Por_ahora_me_he_prop.wav" type="audio/wav">
             </audio></td>
-          <td>1.91229</td> -->
+          <td>1.91229</td>
           <td><audio controls class="audio-player" preload="metadata">
               <source src="resources/audio/plainTTS/es/fastpitch_es_hifigan_0_Por_ahora_me_he_prop.wav" type="audio/wav">
             </audio></td>
           <td>1.09727</td>
-          <td><audio controls class="audio-player" preload="metadata">
-            <source src="resources/audio/plainTTS/es/vits_grapheme_6_lingual/es_ES_tux_vits_Por_ahora_me_he_prop.wav" type="audio/wav">
-          </audio></td>
-          <td>0.66603</td>
           <!-- <td><audio controls class="audio-player" preload="metadata">
             <source src="resources/audio/plainTTS/es/newdecoder_es_gt_pseudo_audio_spker_0_2.wav" type="audio/wav">
             </audio></td> -->
@@ -196,18 +197,14 @@
           <!-- <td><audio controls class="audio-player" preload="metadata">
               <source src="resources/audio/plainTTS/es/newdecoder_es_transfered_audio_spker_0_0.wav" type="audio/wav">
             </audio></td> -->
-          <!-- <td><audio controls class="audio-player" preload="metadata">
+          <td><audio controls class="audio-player" preload="metadata">
               <source src="resources/audio/plainTTS/es/fastpitch_es_waveglow_2_Parece_que_a_eso_de_.wav" type="audio/wav">
             </audio></td>
-          <td>0.94417</td> -->
+          <td>0.94417</td>
           <td><audio controls class="audio-player" preload="metadata">
               <source src="resources/audio/plainTTS/es/fastpitch_es_hifigan_2_Parece_que_a_eso_de_.wav" type="audio/wav">
             </audio></td>
           <td>0.45372</td>
-          <td><audio controls class="audio-player" preload="metadata">
-            <source src="resources/audio/plainTTS/es/vits_grapheme_6_lingual/es_ES_tux_vits_Parece_que_a_eso_de_.wav" type="audio/wav">
-          </audio></td>
-          <td>0.28981</td>
           <!-- <td><audio controls class="audio-player" preload="metadata">
             <source src="resources/audio/plainTTS/es/newdecoder_es_gt_pseudo_audio_spker_0_0.wav" type="audio/wav">
             </audio></td> -->
@@ -219,23 +216,31 @@
     </table>
 
     <h2>French</h2>
+
+    <p>French Phoneme-to-Spectrogram Model:
     <ol>
-      <li>fr_FR.</li>
-      <li>Dataset: MaiLabs.</li>
-      <li>Speakers: 5.</li>
-      <li>Sentences: 34531.</li>
+      <li>Structure: FastPitch.</li>
+      <li>Phoneme Codebook(133): IPA + four french nasal phonemes.</li>
+      <li>Single-Speaker Model: Pre-trained Models for Spanish + 20,9380 fine-tuned iterations.</li>
+      <!-- <li>Multi-Speaker Model: Single-Speaker Model + 31,149 fine-tuned iterations (still in training).</li> -->
+      <li>Dataset: Mailabs. Single-speaker. 4,000 sentences.</li>
     </ol>
+    </p>
+    <p>Vocoder:
+      <ol>
+        <li>Waveglow: LJ-Speech pretrained English model.</li>
+        <li>HiFI-GAN: LJ-Speech pretrained English model + 10,000 fine-tuned iterations.</li>
+      </ol>
+    </p>
     <table>
       <thead>
         <tr>
           <th>Speaker</th>
           <th>Transcript</th>
           <!-- <th>FastPitch(without Pitch)+Vocoder</th> -->
+          <th>FastPitch+WaveGlow</th>
           <!-- <th>Realtime-Factor</th> -->
           <th>FastPitch+Hifi-GAN</th>
-          <th>Realtime-Factor</th>
-          <th>ViTS+D-Vector</th>
-          <th>Realtime-Factor</th>
           <!-- <th>Realtime-Factor</th> -->
           <!-- <th>Ground-truth Spectrogram+Vocoder</th> -->
           <th>Ground-truth Audio</th>
@@ -248,17 +253,12 @@
           <!-- <td><audio controls class="audio-player" preload="metadata">
               <source src="resources/audio/plainTTS/fr/newdecoder_fr_transfered_audio_spker_0_2_2.wav" type="audio/wav">
             </audio></td> -->
-          <!-- <td><audio controls class="audio-player" preload="metadata">
+          <td><audio controls class="audio-player" preload="metadata">
               <source src="resources/audio/plainTTS/fr/fastpitch_fr_waveglow_1_PeauxRouges_nest_p.wav" type="audio/wav">
-            </audio></td> -->
+            </audio></td>
           <td><audio controls class="audio-player" preload="metadata">
               <source src="resources/audio/plainTTS/fr/fastpitch_fr_hifigan_1_PeauxRouges_nest_p.wav" type="audio/wav">
             </audio></td>
-          <td></td>
-          <td><audio controls class="audio-player" preload="metadata">
-            <source src="resources/audio/plainTTS/fr/vits_grapheme_6_lingual/fr_FR_bernard_vits_PeauxRouges_nest_p.wav" type="audio/wav">
-          </audio></td>
-          <td>0.31737</td>
           <!-- <td><audio controls class="audio-player" preload="metadata">
               <source src="resources/audio/plainTTS/fr/newdecoder_fr_gt_pseudo_audio_spker_0_3.wav" type="audio/wav">
             </audio></td> -->
@@ -272,18 +272,12 @@
           <!-- <td><audio controls class="audio-player" preload="metadata">
               <source src="resources/audio/plainTTS/fr/newdecoder_fr_transfered_audio_spker_0_2.wav" type="audio/wav">
             </audio></td> -->
-          <!-- <td><audio controls class="audio-player" preload="metadata">
+          <td><audio controls class="audio-player" preload="metadata">
               <source src="resources/audio/plainTTS/fr/fastpitch_fr_waveglow_3_Les_deux_réunies_en_.wav" type="audio/wav">
-            </audio></td> -->
+            </audio></td>
           <td><audio controls class="audio-player" preload="metadata">
               <source src="resources/audio/plainTTS/fr/fastpitch_fr_hifigan_3_Les_deux_réunies_en_.wav" type="audio/wav">
             </audio></td>
-          <td></td>
-
-          <td><audio controls class="audio-player" preload="metadata">
-              <source src="resources/audio/plainTTS/fr/vits_grapheme_6_lingual/fr_FR_bernard_vits_Les_deux_réunies_en_.wav" type="audio/wav">
-            </audio></td>
-          <td>0.27947</td>
           <!-- <td><audio controls class="audio-player" preload="metadata">
               <source src="resources/audio/plainTTS/fr/newdecoder_fr_gt_pseudo_audio_spker_0_2.wav" type="audio/wav">
             </audio></td> -->
@@ -299,17 +293,12 @@
           <!-- <td><audio controls class="audio-player" preload="metadata">
               <source src="resources/audio/plainTTS/fr/La_Coppermine_aux_e.wav" type="audio/wav">
             </audio></td> -->
-          <!-- <td><audio controls class="audio-player" preload="metadata">
+          <td><audio controls class="audio-player" preload="metadata">
               <source src="resources/audio/plainTTS/fr/fastpitch_fr_waveglow_0_La_Coppermine_aux_e.wav" type="audio/wav">
-            </audio></td> -->
+            </audio></td>
           <td><audio controls class="audio-player" preload="metadata">
               <source src="resources/audio/plainTTS/fr/fastpitch_fr_hifigan_0_La_Coppermine_aux_e.wav" type="audio/wav">
             </audio></td>
-          <td></td>
-          <td><audio controls class="audio-player" preload="metadata">
-              <source src="resources/audio/plainTTS/fr/vits_grapheme_6_lingual/fr_FR_bernard_vits_La_Coppermine_aux_e.wav" type="audio/wav">
-            </audio></td>
-          <td>0.08289</td>
           <!-- <td><audio controls class="audio-player" preload="metadata">
               <source src="resources/audio/plainTTS/fr/newdecoder_fr_gt_pseudo_audio_spker_0_0.wav" type="audio/wav">
             </audio></td> -->
@@ -324,18 +313,12 @@
           <!-- <td><audio controls class="audio-player" preload="metadata">
             <source src="resources/audio/plainTTS/fr/newdecoder_fr_transfered_audio_spker_0_1.wav" type="audio/wav">
           </audio></td> -->
-          <!-- <td><audio controls class="audio-player" preload="metadata">
+          <td><audio controls class="audio-player" preload="metadata">
             <source src="resources/audio/plainTTS/fr/fastpitch_fr_waveglow_2_Le_matin_jai_vu_les.wav" type="audio/wav">
-          </audio></td> -->
+          </audio></td>
           <td><audio controls class="audio-player" preload="metadata">
             <source src="resources/audio/plainTTS/fr/fastpitch_fr_hifigan_2_Le_matin_jai_vu_les.wav" type="audio/wav">
           </audio></td>
-          <td></td>
-
-          <td><audio controls class="audio-player" preload="metadata">
-            <source src="resources/audio/plainTTS/fr/vits_grapheme_6_lingual/fr_FR_bernard_vits_Le_matin_jai_vu_les.wav" type="audio/wav">
-          </audio></td>
-          <td>0.09726</td>
           <!-- <td><audio controls class="audio-player" preload="metadata">
             <source src="resources/audio/plainTTS/fr/newdecoder_fr_gt_pseudo_audio_spker_0_1.wav" type="audio/wav">
           </audio></td> -->
@@ -347,20 +330,28 @@
     </table>
 
     <h2>Chinese(Mandarin)</h2>
+
+    <p>Chinese Phoneme-to-Spectrogram Model:
     <ol>
-      <li>Dataset: MaiLabs.</li>
-      <li>Speakers: 174.</li>
-      <li>Sentences: 63262.</li>
+      <li>Structure: FastPitch.</li>
+      <li>Phoneme Codebook(147): IPA + 18 chinese special phonemes.</li>
+      <li>Multi-Speaker Model: Pre-trained Models for French + Speaker Embedding layer + 172,249 fine-tuned iterations.</li>
+      <li>Ori. Dataset: Aishell-3.</li>
+      <li>Training Dataset: Multi-speaker Subdataset of 16 North Chinese Males. 10,000 sentences.</li>
     </ol>
+    </p>
+    <p>Vocoder:
+      <ol>
+        <li>Structure: Waveglow.</li>
+      </ol>
+    </p>
     <table>
       <thead>
         <tr>
           <th>Speaker</th>
           <th>Transcript</th>
-          <th>FastSpeech+WaveGlow</th>
-          <th>Realtime-Factor</th>
-          <th>ViTS+D-Vector</th>
-          <th>Realtime-Factor</th>
+          <th>Model Output+Vocoder</th>
+          <th>Ground-truth Spectrogram+Vocoder</th>
           <th>Ground-truth Audio</th>
         </tr>
       </thead>
@@ -371,13 +362,9 @@
           <td><audio controls class="audio-player" preload="metadata">
               <source src="resources/audio/plainTTS/ch/chinese_test_0.wav" type="audio/wav">
             </audio></td>
-          <!-- <td><audio controls class="audio-player" preload="metadata">
-              <source src="resources/audio/plainTTS/ch/newdecoder_ch_gt_pseudo_audio_spker_0_1.wav" type="audio/wav">
-            </audio></td> -->
           <td><audio controls class="audio-player" preload="metadata">
-              <source src="resources/audio/plainTTS/ch/vits_grapheme_6_lingual/zh_CN_SSB0273_vits_wei4le5wan2cheng2mei.wav" type="audio/wav">
-            </audio></td> 
-          <td>0.11910</td>
+              <source src="resources/audio/plainTTS/ch/newdecoder_ch_gt_pseudo_audio_spker_0_1.wav" type="audio/wav">
+            </audio></td>
           <td><audio controls class="audio-player" preload="metadata">
               <source src="resources/audio/plainTTS/ch/SSB02730196.wav" type="audio/wav">
             </audio></td>
@@ -412,21 +399,6 @@
         </tr>
       </tbody>
     </table>
-
-    <h2>German</h2>
-    <ol>
-      <li>fr_FR.</li>
-      <li>Dataset: MaiLabs.</li>
-      <li>Speakers: 5.</li>
-      <li>Sentences: 41040.</li>
-    </ol>
-
-    <h2>Japanese</h2>
-    <ol>
-      <li>Dataset: Kokoro.</li>
-      <li>Speakers: 1.</li>
-      <li>Sentences: 9199.</li>
-    </ol>
 
   </div>
 </body>
