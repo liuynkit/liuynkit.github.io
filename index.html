@@ -20,20 +20,18 @@
     <p><img src="resources/model-arch.png" width="700"></p> -->
     <p>Structure:
       <ol>
-        <li>Basic Model: VITS + Speaker Encoder + Language Embedding</li>
+        <li>Model: VITS</li>
         <li>External Speaker Encoder: D-Vector.</li>
-        <li>Language Embed Dim.: 4</li>
+        <li>Language: 6</li>
       </ol>
     </p>
     
     <p>Metrics:
       <ol>
         <li>Realtime-Factor = Processing Duration / Audio Duration</li>
-        <li>smaller is better</li>
       </ol>
       <ol>
         <li>Mel-cepstral Distortion</li>
-        <li>smaller is better</li>
       </ol>
     </p>
 
@@ -43,7 +41,6 @@
       <li>Speakers: 247.</li>
       <li>Sentences: 33236.</li>
     </ol>
-
     <table>
       <thead>
         <tr>
@@ -374,10 +371,11 @@
           <!-- <td><audio controls class="audio-player" preload="metadata">
               <source src="resources/audio/plainTTS/ch/newdecoder_ch_gt_pseudo_audio_spker_0_1.wav" type="audio/wav">
             </audio></td> -->
+          <td></td>
           <td><audio controls class="audio-player" preload="metadata">
-              <source src="resources/audio/plainTTS/ch/vits_grapheme_6_lingual/zh_CN_SSB0273_vits_wei4le5wan2cheng2mei.wav" type="audio/wav">
+              <source src="resources/audio/plainTTS/ch/vits_grapheme_6_lingual/zh_CN__vits_wei4le5wan2cheng2zi4.wav" type="audio/wav">
             </audio></td> 
-          <td>0.11910</td>
+          <td>0.11764</td>
           <td><audio controls class="audio-player" preload="metadata">
               <source src="resources/audio/plainTTS/ch/SSB02730196.wav" type="audio/wav">
             </audio></td>
@@ -415,11 +413,42 @@
 
     <h2>German</h2>
     <ol>
-      <li>fr_FR.</li>
+      <li>de_DE.</li>
       <li>Dataset: MaiLabs.</li>
       <li>Speakers: 5.</li>
       <li>Sentences: 41040.</li>
     </ol>
+    <table>
+      <thead>
+        <tr>
+          <th>Speaker</th>
+          <th>Transcript</th>
+          <th>ViTS+D-Vector</th>
+          <th>Realtime-Factor</th>
+          <th>Ground-truth Audio</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>angela_merkel</td>
+          <td><em>Liebe Mitbürgerinnen und Mitbürger, der Jahreswechsel ist die Zeit, einmal Wichtiges von Unwichtigem zu trennen.</em></td>
+          <!-- <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/fr/newdecoder_fr_transfered_audio_spker_0_2_2.wav" type="audio/wav">
+            </audio></td> -->
+          <!-- <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/fr/fastpitch_fr_waveglow_1_PeauxRouges_nest_p.wav" type="audio/wav">
+            </audio></td> -->
+          <td><audio controls class="audio-player" preload="metadata">
+            <source src="resources/audio/plainTTS/de/de_DEangela_merkel_vits_Liebe_Mitbürgerinnen.wav" type="audio/wav">
+          </audio></td>
+          <td>0.24079</td>
+          <!-- <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/fr/newdecoder_fr_gt_pseudo_audio_spker_0_3.wav" type="audio/wav">
+            </audio></td> -->
+          <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/de/20081231_neujahrsansprache_f000001.wav" type="audio/wav">
+            </audio></td>
+        </tr>
 
     <h2>Japanese</h2>
     <ol>
