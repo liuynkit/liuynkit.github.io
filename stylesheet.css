@@ -78,7 +78,9 @@ td.algorithm {
   position: fixed;
   top: 0;
   right: 0;
+  width: 10px;
 }
+​
 td.synthesis {
   text-align:center;
 }
