@@ -80,6 +80,10 @@ td.algorithm {
   right: 0;
   width: 1px;
 }
+audio.qmedia, embed.qmedia {
+  width: 20px;
+  max-width: 100%;
+}
 ​
 td.synthesis {
   text-align:center;
