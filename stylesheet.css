@@ -80,7 +80,7 @@ td.algorithm {
   right: 0;
   width: 1px;
 }
-audio.qmedia, embed.qmedia {
+audio.audio-player, embed.audio-player {
   width: 5px;
   max-width: 100%;
 }
