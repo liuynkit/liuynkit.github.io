@@ -1,0 +1,646 @@
+<html>
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>Results of trained TTS models.</title>
+  <link rel="stylesheet" type="text/css" href="resources/stylesheet.css">
+  <link rel="shortcut icon" href="resources/logo.png">
+  <style>
+    code {
+      display: block;
+      white-space: pre-wrap
+    }
+  </style>
+</head>
+
+<body> 
+  <div>
+    <h1>Multi-lingual Multi-speaker TTS Results</h1>
+    <!-- <p><b>System architecture:</b></p>
+    <p><img src="resources/model-arch.png" width="700"></p> -->
+    <p>Model Info:
+      <ol>
+        <li>Model: VITS</li>
+        <li>External Speaker Encoder: D-Vector.</li>
+        <li>Language: 6.</li>
+        <li>Speakers: 435.</li>
+        <li>Sentences: >200,000.</li>
+        <li>Training: Pretrained model(1Million Steps) + 52,000 fine-tuned steps.</li>
+      </ol>
+    </p>
+    
+    <p>Metrics:
+      <ol>
+        <li>Realtime-Factor = Processing Duration / Audio Duration. Smaller is better.</li>
+      </ol>
+    </p>
+
+    <h2>English</h2>
+    <ol>
+      <li>SubDataset: LibriTTS.</li>
+      <li>SubSpeakers: 247.</li>
+      <li>SubSentences: 33236.</li>
+    </ol>
+
+    <table> 
+      <thead>
+        <tr>
+          <th>Speaker</th>
+          <th>Transcript</th>
+          <th style="width:5px">FastPitch+Hifi-GAN</th>
+          <th>Realtime-Factor</th>
+          <!-- <th style="width:5px">VITS Grapheme</th>
+          <th>Realtime-Factor</th> -->
+          <th style="width:5px">VITS Phoneme</th>
+          <th>Realtime-Factor</th>
+          <th style="width:5px">VITS Phoneme New</th>
+          <th style="width:5px">Ground-truth Audio</th>
+        </tr>
+      </thead> 
+      <tbody>
+        <tr>
+          <td>LJ-Speaker</td>
+          <td><em>As has been pointed out, the Commission has not resolved all the proposals which could be made. The Commission nevertheless is confident that,</em></td>
+          <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/en/fastpitch_en_hifigan_0_As_has_been_pointed_.wav" type="audio/wav">
+            </audio></td>
+          <td>0.57165</td>
+          <!-- <td><audio controls class="audio-player" preload="metadata">
+            <source src="resources/audio/plainTTS/en/vits_grapheme_6_lingual/en_US__vits_As_has_been_pointed_.wav" type="audio/wav">
+          </audio></td>
+          <td>0.47257</td> -->
+          <td><audio controls class="audio-player" preload="metadata">
+            <source src="resources/audio/plainTTS/en/10febr/en_US_lj_vits_As_has_been_pointed_.wav" type="audio/wav">
+          </audio></td>
+          <td></td>
+
+          <td><audio controls class="audio-player" preload="metadata">
+            <source src="resources/audio/plainTTS/en/wo_dvec/en_US_ljspeech_vits_As_has_been_pointed_.wav" type="audio/wav">
+          </audio></td>
+          <!-- <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/es/newdecoder_es_gt_pseudo_audio_spker_0_1.wav" type="audio/wav">
+            </audio></td> -->
+          <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/en/LJ050-0276.wav" type="audio/wav">
+            </audio></td>
+        </tr>
+        <!-- <tr>
+          <td>Prof.Waibel</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td><audio controls class="audio-player" preload="metadata">
+            <source src="resources/audio/plainTTS/en/espeak/en_US_alex_vits_As_has_been_pointed_.wav" type="audio/wav">
+          </audio></td>
+          <td>0.33625</td>
+          <td></td>
+        </tr> -->
+        <tr>
+          <td></td>
+          <td><em>with the active cooperation of the responsible agencies and with the understanding of the people of the United States in their demands upon their President,</em></td>
+          <!-- <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/es/newdecoder_es_transfered_audio_spker_0_2.wav" type="audio/wav">
+            </audio></td> -->
+          <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/en/fastpitch_en_hifigan_1_with_the_active_coop.wav" type="audio/wav">
+            </audio></td>
+          <td>0.28386</td>
+          
+          <td><audio controls class="audio-player" preload="metadata">
+            <source src="resources/audio/plainTTS/en/10febr/en_US_lj_vits_with_the_active_coop.wav" type="audio/wav">
+          </audio></td>
+          <td></td>
+
+          <td><audio controls class="audio-player" preload="metadata">
+            <source src="resources/audio/plainTTS/en/wo_dvec/en_US_ljspeech_vits_with_the_active_coop.wav" type="audio/wav">
+          </audio></td>
+          
+          <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/en/LJ050-0277.wav" type="audio/wav">
+            </audio></td>
+        </tr>
+        <!-- <tr>
+          <td>Prof.Waibel</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td><audio controls class="audio-player" preload="metadata">
+            <source src="resources/audio/plainTTS/en/espeak/en_US_alex_vits_with_the_active_coop.wav" type="audio/wav">
+          </audio></td>
+          <td>0.33625</td>
+          <td></td>
+        </tr> -->
+        <tr>
+          <td></td>
+          <td><em>the recommendations we have here suggested would greatly advance the security of the office without any impairment of our fundamental liberties.</em></td>
+          <!-- <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/es/newdecoder_es_transfered_audio_spker_0_0.wav" type="audio/wav">
+            </audio></td> -->
+          <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/en/fastpitch_en_hifigan_2_the_recommendations_.wav" type="audio/wav">
+            </audio></td>
+          <td>0.29848</td>
+          <!-- <td><audio controls class="audio-player" preload="metadata">
+            <source src="resources/audio/plainTTS/en/vits_grapheme_6_lingual/en_US__vits_the_recommendations_.wav" type="audio/wav">
+          </audio></td>
+          <td>0.06170</td> -->
+          <td><audio controls class="audio-player" preload="metadata">
+            <source src="resources/audio/plainTTS/en/10febr/en_US_lj_vits_the_recommendations_.wav" type="audio/wav">
+          </audio></td>
+          <td></td>
+
+          <td><audio controls class="audio-player" preload="metadata">
+            <source src="resources/audio/plainTTS/en/wo_dvec/en_US_ljspeech_vits_the_recommendations_.wav" type="audio/wav">
+          </audio></td>
+
+          <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/en/LJ050-0278.wav" type="audio/wav">
+            </audio></td>
+        </tr>
+        <!-- <tr>
+          <td>Prof.Waibel</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td><audio controls class="audio-player" preload="metadata">
+            <source src="resources/audio/plainTTS/en/espeak/en_US_alex_vits_the_recommendations_.wav" type="audio/wav">
+          </audio></td>
+          <td>0.33625</td>
+          <td></td>
+        </tr> -->
+      </tbody>
+    </table>
+
+    <h2>Spanish</h2>
+    <ol>
+      <li>SubDataset: MaiLabs.</li>
+      <li>SubSpeakers: 3.</li>
+      <li>SubSentences: 27540.</li>
+    </ol>
+    <table>
+      <thead>
+        <tr>
+          <th>Speaker</th>
+          <th>Transcript</th>
+          <!-- <th>FastPitch(without Pitch)+Vocoder</th> -->
+          <th>FastPitch+Hifi-GAN</th>
+          <th>Realtime-Factor</th>
+          <!-- <th>VITS Grapheme</th>
+          <th>Realtime-Factor</th> -->
+          <th>VITS Phoneme</th>
+          <th>Realtime-Factor</th>
+          <th>VITS Phoneme New</th>
+          <!-- <th>Ground-truth Spectrogram+Vocoder</th> -->
+          <th>Ground-truth Audio</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>tux</td>
+          <td><em>Octubre-Noviembre de mil ochocientos settanta y tres.</em></td>
+          <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/es/fastpitch_es_hifigan_1_OctubreNoviembre_de.wav" type="audio/wav">
+            </audio></td>
+          <td>0.68345</td>
+
+          <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/es/10febr/es_ES_tux_vits_OctubreNoviembre_de.wav" type="audio/wav">
+            </audio></td>
+          <td></td>
+
+          <td><audio controls class="audio-player" preload="metadata">
+            <source src="resources/audio/plainTTS/es/wo_dvec/es_ES_css10_spanish_vits_OctubreNoviembre_de.wav" type="audio/wav">
+          </audio></td>
+          
+          <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/es/bailen_32_perezgaldos_f000072.wav" type="audio/wav">
+            </audio></td>
+        </tr>
+        <tr>
+          <td>karen_savage</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/es/10febr/es_ES_karen_savage_vits_OctubreNoviembre_de.wav" type="audio/wav">
+            </audio></td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>tux</td>
+          <td><em>Por ahora me he propuesto guardar secreto.</em></td>
+          <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/es/fastpitch_es_hifigan_0_Por_ahora_me_he_prop.wav" type="audio/wav">
+            </audio></td>
+          <td>1.09727</td>
+
+          <td><audio controls class="audio-player" preload="metadata">
+            <source src="resources/audio/plainTTS/es/10febr/es_ES_tux_vits_Por_ahora_me_he_prop.wav" type="audio/wav">
+          </audio></td>
+          <td></td>
+
+          <td><audio controls class="audio-player" preload="metadata">
+            <source src="resources/audio/plainTTS/es/wo_dvec/es_ES_css10_spanish_vits_Por_ahora_me_he_prop.wav" type="audio/wav">
+          </audio></td>
+          <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/es/corte_de_carlos_iv_24_perezgaldos_f000121.wav" type="audio/wav">
+            </audio></td>
+        </tr>
+        <tr>
+          <td>karen_savage</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/es/10febr/es_ES_karen_savage_vits_Por_ahora_me_he_prop.wav" type="audio/wav">
+            </audio></td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>tux</td>
+          <td><em>Parece que a eso de la una el ilustre prisionero, luego que se enteró de que su padre había salido a
+            caza.</em></td>
+          <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/es/fastpitch_es_hifigan_2_Parece_que_a_eso_de_.wav" type="audio/wav">
+            </audio></td>
+          <td>0.45372</td>
+          
+          <td><audio controls class="audio-player" preload="metadata">
+            <source src="resources/audio/plainTTS/es/10febr/es_ES_tux_vits_Parece_que_a_eso_de_.wav" type="audio/wav">
+          </audio></td>
+          <td></td>
+          <td><audio controls class="audio-player" preload="metadata">
+            <source src="resources/audio/plainTTS/es/wo_dvec/es_ES_css10_spanish_vits_Parece_que_a_eso_de_.wav" type="audio/wav">
+          </audio></td>
+          <!-- <td>0.28981</td> -->
+          <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/es/corte_de_carlos_iv_15_perezgaldos_f000073.wav" type="audio/wav">
+            </audio></td>
+        </tr>
+        <tr>
+          <td>karen_savage</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/es/10febr/es_ES_karen_savage_vits_Parece_que_a_eso_de_.wav" type="audio/wav">
+            </audio></td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>French</h2>
+    <ol>
+      <li>SubDataset: MaiLabs.</li>
+      <li>SubSpeakers: 5.</li>
+      <li>SubSentences: 34531.</li>
+    </ol>
+    <table>
+      <thead>
+        <tr>
+          <th>Speaker</th>
+          <th>Transcript</th>
+          <!-- <th>FastPitch(without Pitch)+Vocoder</th> -->
+          <!-- <th>Realtime-Factor</th> -->
+          <th>FastPitch+Hifi-GAN</th>
+          <th>Realtime-Factor</th>
+          <!-- <th>VITS Grapheme</th>
+          <th>Realtime-Factor</th> -->
+          <th>VITS Phoneme</th>
+          <th>Realtime-Factor</th>
+          <th>VITS Phoneme New</th>
+          <!-- <th>Realtime-Factor</th> -->
+          <!-- <th>Ground-truth Spectrogram+Vocoder</th> -->
+          <th>Ground-truth Audio</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>bernard</td>
+          <td><em>Peaux-Rouges n'est pas encore arrivée. Le jour de ma vie a trop duré.</em></td>
+          <!-- <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/fr/newdecoder_fr_transfered_audio_spker_0_2_2.wav" type="audio/wav">
+            </audio></td> -->
+          <!-- <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/fr/fastpitch_fr_waveglow_1_PeauxRouges_nest_p.wav" type="audio/wav">
+            </audio></td> -->
+          <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/fr/fastpitch_fr_hifigan_1_PeauxRouges_nest_p.wav" type="audio/wav">
+            </audio></td>
+          <td></td>
+          <!-- <td><audio controls class="audio-player" preload="metadata">
+            <source src="resources/audio/plainTTS/fr/vits_grapheme_6_lingual/fr_FR_bernard_vits_PeauxRouges_nest_p.wav" type="audio/wav">
+          </audio></td>
+          <td>0.31737</td> -->
+          <td><audio controls class="audio-player" preload="metadata">
+            <source src="resources/audio/plainTTS/fr/10febr/fr_FR_bernard_vits_PeauxRouges_nest_p.wav" type="audio/wav">
+          </audio></td>
+          <td></td>
+          <td><audio controls class="audio-player" preload="metadata">
+            <source src="resources/audio/plainTTS/fr/wo_dvec/fr_FR_css10_french_vits_PeauxRouges_nest_p.wav" type="audio/wav">
+          </audio></td>
+          <!-- <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/fr/newdecoder_fr_gt_pseudo_audio_spker_0_3.wav" type="audio/wav">
+            </audio></td> -->
+          <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/fr/le_dernier_des_mohicans_chapitre_33_f000199.wav" type="audio/wav">
+            </audio></td>
+        </tr>
+        <tr>
+          <td>nadine_eckert_boulet</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td><audio controls class="audio-player" preload="metadata">
+            <source src="resources/audio/plainTTS/fr/10febr/fr_FR_nadine_eckert_boulet_vits_PeauxRouges_nest_p.wav" type="audio/wav">
+            </audio></td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>bernard</td>
+          <td><em>Les deux réunies en font une seule pour les castors.</em></td>
+          <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/fr/fastpitch_fr_hifigan_3_Les_deux_réunies_en_.wav" type="audio/wav">
+            </audio></td>
+          <td></td>
+          <td><audio controls class="audio-player" preload="metadata">
+            <source src="resources/audio/plainTTS/fr/10febr/fr_FR_bernard_vits_Les_deux_réunies_en_.wav" type="audio/wav">
+          </audio></td>
+          <td></td>
+          <td><audio controls class="audio-player" preload="metadata">
+            <source src="resources/audio/plainTTS/fr/wo_dvec/fr_FR_css10_french_vits_Les_deux_réunies_en_.wav" type="audio/wav">
+          </audio></td>
+          <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/fr/le_dernier_des_mohicans_chapitre_32_f000015.wav" type="audio/wav">
+            </audio></td>
+        </tr>
+
+        <tr>
+          <td>nadine_eckert_boulet</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td><audio controls class="audio-player" preload="metadata">
+            <source src="resources/audio/plainTTS/fr/10febr/fr_FR_nadine_eckert_boulet_vits_Les_deux_réunies_en_.wav" type="audio/wav">
+            </audio></td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>bernard</td>
+          <td><em>La Coppermine, aux eaux pures et rapides, alors dégagée de glaces, coulait à pleins bords dans une large
+            vallée, arrosée par un grand nombre de rios capricieux, mais facilement guéables.</em></td>
+          <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/fr/fastpitch_fr_hifigan_0_La_Coppermine_aux_e.wav" type="audio/wav">
+            </audio></td>
+          <td></td>
+          <td><audio controls class="audio-player" preload="metadata">
+            <source src="resources/audio/plainTTS/fr/espeak/fr_FR_bernard_vits_La_Coppermine_aux_e.wav" type="audio/wav">
+          </audio></td>
+          <td></td>
+          <td><audio controls class="audio-player" preload="metadata">
+            <source src="resources/audio/plainTTS/fr/wo_dvec/fr_FR_css10_french_vits_La_Coppermine_aux_e.wav" type="audio/wav">
+          </audio></td>
+          <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/fr/le_pays_des_fourrures_1_10_f000027.wav" type="audio/wav">
+            </audio></td>
+        </tr>
+
+        <tr>
+          <td>nadine_eckert_boulet</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td><audio controls class="audio-player" preload="metadata">
+            <source src="resources/audio/plainTTS/fr/10febr/fr_FR_nadine_eckert_boulet_vits_La_Coppermine_aux_e.wav" type="audio/wav">
+          </audio></td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+
+        <tr>
+          <td>bernard</td>
+          <td><em>Le matin j'ai vu les fils d'Unamis forts et heureux; et cependant, avant que la nuit soit venue, j'ai vécu pour voir le dernier guerrier de l'antique race des moh!</em></td>
+          <td><audio controls class="audio-player" preload="metadata">
+            <source src="resources/audio/plainTTS/fr/fastpitch_fr_hifigan_2_Le_matin_jai_vu_les.wav" type="audio/wav">
+          </audio></td>
+          <td></td>
+          <!-- <td><audio controls class="audio-player" preload="metadata">
+            <source src="resources/audio/plainTTS/fr/vits_grapheme_6_lingual/fr_FR_bernard_vits_Le_matin_jai_vu_les.wav" type="audio/wav">
+          </audio></td>
+          <td>0.09726</td> -->
+          <td><audio controls class="audio-player" preload="metadata">
+            <source src="resources/audio/plainTTS/fr/10febr/fr_FR_bernard_vits_Le_matin_jai_vu_les.wav" type="audio/wav">
+            </audio></td>
+          <td></td>
+          <td><audio controls class="audio-player" preload="metadata">
+            <source src="resources/audio/plainTTS/fr/wo_dvec/fr_FR_css10_french_vits_Le_matin_jai_vu_les.wav" type="audio/wav">
+            </audio></td>
+          <td><audio controls class="audio-player" preload="metadata">
+            <source src="resources/audio/plainTTS/fr/le_dernier_des_mohicans_chapitre_33_f000200.wav" type="audio/wav">
+          </audio></td>
+        </tr>
+
+        <tr>
+          <td>nadine_eckert_boulet</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td><audio controls class="audio-player" preload="metadata">
+            <source src="resources/audio/plainTTS/fr/10febr/fr_FR_nadine_eckert_boulet_vits_Le_matin_jai_vu_les.wav" type="audio/wav">
+            </audio></td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Chinese(Mandarin)</h2>
+    <ol>
+      <li>SubDataset: MaiLabs.</li>
+      <li>SubSpeakers: 174.</li>
+      <li>SubSentences: 63262.</li>
+    </ol>
+    <table>
+      <thead>
+        <tr>
+          <th>Speaker</th>
+          <th>Transcript</th>
+          <th>FastSpeech+WaveGlow</th>
+          <th>Realtime-Factor</th>
+          <th>VITS Phoneme</th>
+          <th>Realtime-Factor</th>
+          <th>VITS Phoneme New</th>
+          <th>Ground-truth Audio</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>00 SSB0273</td>
+          <td><em>为了完成自己每天的跑步计划</em></td>
+          <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/ch/chinese_test_0.wav" type="audio/wav">
+            </audio></td>
+          <td></td>
+          <!-- <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/ch/vits_grapheme_6_lingual/zh_CN__vits_wei4le5wan2cheng2zi4.wav" type="audio/wav">
+            </audio></td> 
+          <td>0.11764</td> -->
+          <td><audio controls class="audio-player" preload="metadata">
+            <source src="resources/audio/plainTTS/ch/vits_grapheme_6_lingual/zh_CN__vits_wei4le5wan2cheng2zi4.wav" type="audio/wav">
+          </audio></td> 
+          <td>0.29772</td>
+          <td><audio controls class="audio-player" preload="metadata">
+            <source src="resources/audio/plainTTS/ch/10febr/zh_CN_SSB0273_vits_为了完成自己每天的跑步计划.wav" type="audio/wav">
+          </audio></td> 
+          <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/ch/SSB02730196.wav" type="audio/wav">
+            </audio></td>
+        </tr>
+        <tr>
+          <td>angela_merkel</td>
+          <td><em>为了完成自己每天的跑步计划</em></td>
+          <td></td>
+          <td></td>
+          <td></td> 
+          <td></td>
+          <td><audio controls class="audio-player" preload="metadata">
+            <source src="resources/audio/plainTTS/ch/10febr/zh_CN_angela_merkel_vits_为了完成自己每天的跑步计划.wav" type="audio/wav">
+          </audio></td> 
+          <td></td>
+        </tr>
+        <!-- <tr>
+          <td>01 SSB1863</td>
+          <td></td>
+          <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/ch/chinese_test_1.wav" type="audio/wav">
+            </audio></td>
+        </tr>
+        <tr>
+          <td>02 SSB0241</td>
+          <td></td>
+          <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/ch/chinese_test_2.wav" type="audio/wav">
+            </audio></td>
+        </tr>
+        <tr>
+          <td>03 SSB0966</td>
+          <td></td>
+          <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/ch/chinese_test_3.wav" type="audio/wav">
+            </audio></td>
+        </tr>
+        <tr>
+          <td>04 SSB0629</td>
+          <td></td>
+          <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/ch/chinese_test_4.wav" type="audio/wav">
+            </audio></td>
+        </tr> -->
+      </tbody>
+    </table>
+
+    <h2>German</h2>
+    <ol>
+      <li>SubDataset: MaiLabs.</li>
+      <li>SubSpeakers: 5.</li>
+      <li>SubSentences: 41040.</li>
+    </ol>
+    <table>
+      <thead>
+        <tr>
+          <th>Speaker</th>
+          <th>Transcript</th>
+          <th>VITS Phoneme</th>
+          <th>Realtime-Factor</th>
+          <th>VITS Phoneme New</th>
+          <th>Ground-truth Audio</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>karlsson</td>
+          <td><em>Liebe Mitbürgerinnen und Mitbürger, der Jahreswechsel ist die Zeit, einmal Wichtiges von Unwichtigem zu trennen.</em></td>
+          <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/de/new/de_DE_karlsson_vits_Liebe_Mitbürgerinnen.wav" type="audio/wav">
+            </audio></td>
+          <td></td>
+          <td><audio controls class="audio-player" preload="metadata">
+            <source src="resources/audio/plainTTS/de/wo_dvec/de_DE_Karlsson_vits_Liebe_Mitbürgerinnen.wav" type="audio/wav">
+            </audio></td>
+          <td></td>
+        </tr>
+  
+        <tr>
+          <td>karlsson</td>
+          <td><em>Vertrauen auf das, was wir können, ist gerade jetzt wichtig.</em></td>
+          <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/de/new/de_DE_karlsson_vits_Vertrauen_auf_das_w.wav" type="audio/wav">
+            </audio></td>
+          <td></td>
+          <td><audio controls class="audio-player" preload="metadata">
+            <source src="resources/audio/plainTTS/de/wo_dvec/de_DE_Karlsson_vits_Vertrauen_auf_das_w.wav" type="audio/wav">
+            </audio></td>
+          <td></td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Japanese</h2>
+    <ol>
+      <li>SubDataset: Kokoro.</li>
+      <li>SubSpeakers: 1.</li>
+      <li>SubSentences: 9199.</li>
+    </ol>
+    <table>
+      <thead>
+        <tr>
+          <th>Speaker</th>
+          <th>Transcript</th>
+          <th>VITS Phoneme</th>
+          <th>Realtime-Factor</th>
+          <th>VITS Phoneme New</th>
+          <th>Ground-truth Audio</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Kokoro</td>
+          <td><em>じょうにさおさせば流される。意地をとおせばきゅうくつだ。</em></td>
+
+          <td><audio controls class="audio-player" preload="metadata">
+            <source src="resources/audio/plainTTS/jp/10febr/ja_JP_kokoro_vits_じょうにさおさせば流される。意地をとおせ.wav" type="audio/wav">
+          </audio></td>
+          <td></td>
+          <td><audio controls class="audio-player" preload="metadata">
+            <source src="resources/audio/plainTTS/jp/wo_dvec/ja_JP_kokoro_vits_じょうにさおさせば流される。意地をとおせ.wav" type="audio/wav">
+          </audio></td>
+          <td><audio controls class="audio-player" preload="metadata">
+              <source src="resources/audio/plainTTS/jp/kusamakura-by-soseki-natsume-00003.wav" type="audio/wav">
+            </audio></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</body>
+
+</html>
