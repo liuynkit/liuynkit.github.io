@@ -6,7 +6,12 @@ async function loadFileList() {
     const tableBody = document.getElementById('table-body');
 
     rows.forEach(row => {
-        const [filePath, description] = row.split('|').map(item => item.trim());
+        const [filePath, description] = row.split('|').map(item => item.trim());'
+        
+        // Debugging: Print the filePath and description
+        console.log('File Path:', filePath);
+        console.log('Description:', description);
+
         const tr = document.createElement('tr');
 
         // Create description cell
