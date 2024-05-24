@@ -1,5 +1,5 @@
 async function loadFileList() {
-    const response = await fetch('filelist.txt');
+    const response = await fetch('/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/emph_filelist.txt');
     const data = await response.text();
     const rows = data.split('\n').filter(row => row.trim() !== '');
 
