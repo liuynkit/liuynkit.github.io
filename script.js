@@ -8,7 +8,7 @@ async function loadFileList() {
     rows.forEach(row => {
         const [filePath, description] = row.split('|').map(item => item.trim());
         
-        filePath = filePath.replace('/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/', 'resources/audio/emphTTS/en/vitsprosody030520241049PM/');
+        // filePath = filePath.replace('/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/', 'resources/audio/emphTTS/en/vitsprosody030520241049PM/');
         // Debugging: Print the filePath and description
         console.log('File Path:', filePath);
         console.log('Description:', description);
