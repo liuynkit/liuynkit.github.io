@@ -1,0 +1,562 @@
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_0.wav|“Tom, how could you be so noble!”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_1.wav|#“Tom,# how could you be so noble!”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_2.wav|“Tom, #how# could you be so noble!”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_3.wav|“Tom, how #could# you be so noble!”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_4.wav|“Tom, how could #you# be so noble!”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_5.wav|“Tom, how could you #be# so noble!”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_6.wav|“Tom, how could you be #so# noble!”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_7.wav|“Tom, how could you be so #noble!”.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_8.wav|VACATION was approaching.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_9.wav|#VACATION# was approaching.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_10.wav|VACATION #was# approaching.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_11.wav|VACATION was #approaching.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_12.wav|They threw away no opportunity to do the master a mischief.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_13.wav|#They# threw away no opportunity to do the master a mischief.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_14.wav|They #threw# away no opportunity to do the master a mischief.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_15.wav|They threw #away# no opportunity to do the master a mischief.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_16.wav|They threw away #no# opportunity to do the master a mischief.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_17.wav|They threw away no #opportunity# to do the master a mischief.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_18.wav|They threw away no opportunity to #do# the master a mischief.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_19.wav|They threw away no opportunity to do the #master# a mischief.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_20.wav|They threw away no opportunity to do the master #a# mischief.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_21.wav|They threw away no opportunity to do the master a #mischief.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_22.wav|But he kept ahead all the time.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_23.wav|#But# he kept ahead all the time.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_24.wav|But #he# kept ahead all the time.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_25.wav|But he #kept# ahead all the time.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_26.wav|But he kept #ahead# all the time.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_27.wav|But he kept ahead #all# the time.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_28.wav|But he kept ahead all the #time.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_29.wav|In the fulness of time the interesting occasion arrived.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_30.wav|#In# the fulness of time the interesting occasion arrived.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_31.wav|In the #fulness# of time the interesting occasion arrived.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_32.wav|In the fulness of #time# the interesting occasion arrived.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_33.wav|In the fulness of time the #interesting# occasion arrived.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_34.wav|In the fulness of time the interesting #occasion# arrived.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_35.wav|In the fulness of time the interesting occasion #arrived.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_36.wav|He was looking tolerably mellow.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_37.wav|#He# was looking tolerably mellow.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_38.wav|He #was# looking tolerably mellow.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_39.wav|He was #looking# tolerably mellow.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_40.wav|He was looking #tolerably# mellow.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_41.wav|He was looking tolerably #mellow.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_42.wav|The master frowned, and this completed the disaster.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_43.wav|The #master# frowned, and this completed the disaster.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_44.wav|The master #frowned,# and this completed the disaster.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_45.wav|The master frowned, #and# this completed the disaster.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_46.wav|The master frowned, and #this# completed the disaster.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_47.wav|The master frowned, and this #completed# the disaster.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_48.wav|The master frowned, and this completed the #disaster.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_49.wav|Tom struggled awhile and then retired, utterly defeated.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_50.wav|#Tom# struggled awhile and then retired, utterly defeated.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_51.wav|Tom #struggled# awhile and then retired, utterly defeated.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_52.wav|Tom struggled #awhile# and then retired, utterly defeated.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_53.wav|Tom struggled awhile #and# then retired, utterly defeated.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_54.wav|Tom struggled awhile and #then# retired, utterly defeated.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_55.wav|Tom struggled awhile and then #retired,# utterly defeated.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_56.wav|Tom struggled awhile and then retired, #utterly# defeated.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_57.wav|Tom struggled awhile and then retired, utterly #defeated.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_58.wav|There was a weak attempt at applause, but it died early.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_59.wav|#There# was a weak attempt at applause, but it died early.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_60.wav|There #was# a weak attempt at applause, but it died early.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_61.wav|There was #a# weak attempt at applause, but it died early.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_62.wav|There was a #weak# attempt at applause, but it died early.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_63.wav|There was a weak #attempt# at applause, but it died early.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_64.wav|There was a weak attempt #at# applause, but it died early.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_65.wav|There was a weak attempt at #applause,# but it died early.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_66.wav|There was a weak attempt at applause, #but# it died early.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_67.wav|There was a weak attempt at applause, but #it# died early.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_68.wav|There was a weak attempt at applause, but it #died# early.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_69.wav|There was a weak attempt at applause, but it died #early.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_70.wav|Then there were reading exercises, and a spelling fight.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_71.wav|#Then# there were reading exercises, and a spelling fight.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_72.wav|Then #there# were reading exercises, and a spelling fight.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_73.wav|Then there #were# reading exercises, and a spelling fight.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_74.wav|Then there were #reading# exercises, and a spelling fight.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_75.wav|Then there were reading #exercises,# and a spelling fight.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_76.wav|Then there were reading exercises, #and# a spelling fight.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_77.wav|Then there were reading exercises, and #a# spelling fight.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_78.wav|Then there were reading exercises, and a #spelling# fight.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_79.wav|Then there were reading exercises, and a spelling #fight.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_80.wav|The meagre Latin class recited with honor.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_81.wav|The #meagre# Latin class recited with honor.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_82.wav|The meagre #Latin# class recited with honor.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_83.wav|The meagre Latin #class# recited with honor.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_84.wav|The meagre Latin class #recited# with honor.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_85.wav|The meagre Latin class recited #with# honor.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_86.wav|The meagre Latin class recited with #honor.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_87.wav|Homely truth is unpalatable.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_88.wav|#Homely# truth is unpalatable.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_89.wav|Homely #truth# is unpalatable.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_90.wav|Homely truth #is# unpalatable.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_91.wav|Homely truth is #unpalatable.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_92.wav|Let us return to the “Examination.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_93.wav|#Let# us return to the “Examination.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_94.wav|Let #us# return to the “Examination.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_95.wav|Let us #return# to the “Examination.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_96.wav|Let us return to the #“Examination.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_97.wav|Imagination is busy sketching rose-tinted pictures of joy.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_98.wav|#Imagination# is busy sketching rose-tinted pictures of joy.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_99.wav|Imagination #is# busy sketching rose-tinted pictures of joy.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_100.wav|Imagination is #busy# sketching rose-tinted pictures of joy.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_101.wav|Imagination is busy #sketching# rose-tinted pictures of joy.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_102.wav|Imagination is busy sketching #rose-tinted# pictures of joy.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_103.wav|Imagination is busy sketching rose-tinted #pictures# of joy.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_104.wav|Imagination is busy sketching rose-tinted pictures of #joy.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_105.wav|And so forth and so on.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_106.wav|#And# so forth and so on.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_107.wav|And #so# forth and so on.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_108.wav|And so #forth# and so on.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_109.wav|And so forth #and# so on.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_110.wav|And so forth and #so# on.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_111.wav|And so forth and so #on.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_112.wav|” Two stanzas of it will do:.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_113.wav|#”# Two stanzas of it will do:.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_114.wav|” #Two# stanzas of it will do:.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_115.wav|” Two #stanzas# of it will do:.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_116.wav|” Two stanzas of #it# will do:.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_117.wav|” Two stanzas of it #will# do:.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_118.wav|” Two stanzas of it will #do:.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_119.wav|“A MISSOURI MAIDEN'S FAREWELL TO ALABAMA.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_120.wav|#“A# MISSOURI MAIDEN'S FAREWELL TO ALABAMA.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_121.wav|“A #MISSOURI# MAIDEN'S FAREWELL TO ALABAMA.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_122.wav|“A MISSOURI #MAIDEN'S# FAREWELL TO ALABAMA.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_123.wav|“A MISSOURI MAIDEN'S #FAREWELL# TO ALABAMA.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_124.wav|“A MISSOURI MAIDEN'S FAREWELL #TO# ALABAMA.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_125.wav|“A MISSOURI MAIDEN'S FAREWELL TO #ALABAMA.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_126.wav|“Dark and tempestuous was night.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_127.wav|#“Dark# and tempestuous was night.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_128.wav|“Dark #and# tempestuous was night.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_129.wav|“Dark and #tempestuous# was night.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_130.wav|“Dark and tempestuous #was# night.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_131.wav|“Dark and tempestuous was #night.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_132.wav|He knew what the matter was, and set himself to right it.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_133.wav|#He# knew what the matter was, and set himself to right it.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_134.wav|He #knew# what the matter was, and set himself to right it.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_135.wav|He knew #what# the matter was, and set himself to right it.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_136.wav|He knew what the #matter# was, and set himself to right it.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_137.wav|He knew what the matter #was,# and set himself to right it.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_138.wav|He knew what the matter was, #and# set himself to right it.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_139.wav|He knew what the matter was, and #set# himself to right it.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_140.wav|He knew what the matter was, and set #himself# to right it.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_141.wav|He knew what the matter was, and set himself to #right# it.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_142.wav|He knew what the matter was, and set himself to right #it.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_143.wav|That broke up the meeting.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_144.wav|#That# broke up the meeting.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_145.wav|That #broke# up the meeting.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_146.wav|That broke #up# the meeting.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_147.wav|That broke up the #meeting.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_148.wav|The boys were avenged.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_149.wav|The #boys# were avenged.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_150.wav|The boys #were# avenged.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_151.wav|The boys were #avenged.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_152.wav|But the Judge had a most discouraging way of fluctuating.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_153.wav|#But# the Judge had a most discouraging way of fluctuating.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_154.wav|But the #Judge# had a most discouraging way of fluctuating.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_155.wav|But the Judge #had# a most discouraging way of fluctuating.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_156.wav|But the Judge had #a# most discouraging way of fluctuating.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_157.wav|But the Judge had a #most# discouraging way of fluctuating.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_158.wav|But the Judge had a most #discouraging# way of fluctuating.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_159.wav|But the Judge had a most discouraging #way# of fluctuating.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_160.wav|But the Judge had a most discouraging way of #fluctuating.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_161.wav|Tom was disgusted; and felt a sense of injury, too.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_162.wav|#Tom# was disgusted; and felt a sense of injury, too.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_163.wav|Tom #was# disgusted; and felt a sense of injury, too.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_164.wav|Tom was #disgusted;# and felt a sense of injury, too.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_165.wav|Tom was disgusted; #and# felt a sense of injury, too.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_166.wav|Tom was disgusted; and #felt# a sense of injury, too.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_167.wav|Tom was disgusted; and felt #a# sense of injury, too.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_168.wav|Tom was disgusted; and felt a #sense# of injury, too.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_169.wav|Tom was disgusted; and felt a sense of #injury,# too.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_170.wav|Tom was disgusted; and felt a sense of injury, #too.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_171.wav|The funeral was a fine thing.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_172.wav|The #funeral# was a fine thing.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_173.wav|The funeral #was# a fine thing.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_174.wav|The funeral was #a# fine thing.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_175.wav|The funeral was a #fine# thing.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_176.wav|The funeral was a fine #thing.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_177.wav|The dreadful secret of the murder was a chronic misery.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_178.wav|The #dreadful# secret of the murder was a chronic misery.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_179.wav|The dreadful #secret# of the murder was a chronic misery.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_180.wav|The dreadful secret of the #murder# was a chronic misery.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_181.wav|The dreadful secret of the murder #was# a chronic misery.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_182.wav|The dreadful secret of the murder was #a# chronic misery.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_183.wav|The dreadful secret of the murder was a #chronic# misery.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_184.wav|The dreadful secret of the murder was a chronic #misery.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_185.wav|It was a very cancer for permanency and pain.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_186.wav|#It# was a very cancer for permanency and pain.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_187.wav|It #was# a very cancer for permanency and pain.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_188.wav|It was #a# very cancer for permanency and pain.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_189.wav|It was a #very# cancer for permanency and pain.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_190.wav|It was a very #cancer# for permanency and pain.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_191.wav|It was a very cancer #for# permanency and pain.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_192.wav|It was a very cancer for #permanency# and pain.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_193.wav|It was a very cancer for permanency #and# pain.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_194.wav|It was a very cancer for permanency and #pain.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_195.wav|Then came the measles.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_196.wav|#Then# came the measles.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_197.wav|Then #came# the measles.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_198.wav|Then came the #measles.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_199.wav|He was very ill, he was interested in nothing.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_200.wav|#He# was very ill, he was interested in nothing.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_201.wav|He #was# very ill, he was interested in nothing.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_202.wav|He was #very# ill, he was interested in nothing.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_203.wav|He was very #ill,# he was interested in nothing.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_204.wav|He was very ill, #he# was interested in nothing.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_205.wav|He was very ill, he #was# interested in nothing.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_206.wav|He was very ill, he was #interested# in nothing.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_207.wav|He was very ill, he was interested #in# nothing.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_208.wav|He was very ill, he was interested in #nothing.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_209.wav|The boy's first impulse was to be grateful, and reform.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_210.wav|The #boy's# first impulse was to be grateful, and reform.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_211.wav|The boy's #first# impulse was to be grateful, and reform.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_212.wav|The boy's first #impulse# was to be grateful, and reform.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_213.wav|The boy's first impulse #was# to be grateful, and reform.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_214.wav|The boy's first impulse was to #be# grateful, and reform.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_215.wav|The boy's first impulse was to be #grateful,# and reform.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_216.wav|The boy's first impulse was to be grateful, #and# reform.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_217.wav|The boy's first impulse was to be grateful, and #reform.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_218.wav|The next day the doctors were back; Tom had relapsed.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_219.wav|The #next# day the doctors were back; Tom had relapsed.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_220.wav|The next #day# the doctors were back; Tom had relapsed.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_221.wav|The next day the #doctors# were back; Tom had relapsed.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_222.wav|The next day the doctors #were# back; Tom had relapsed.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_223.wav|The next day the doctors were #back;# Tom had relapsed.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_224.wav|The next day the doctors were back; #Tom# had relapsed.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_225.wav|The next day the doctors were back; Tom #had# relapsed.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_226.wav|The next day the doctors were back; Tom had #relapsed.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_227.wav|Poor lads!
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_228.wav|#Poor# lads!
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_229.wav|Poor #lads!#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_230.wav|they like Tom had suffered a relapse.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_231.wav|#they# like Tom had suffered a relapse.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_232.wav|they #like# Tom had suffered a relapse.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_233.wav|they like #Tom# had suffered a relapse.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_234.wav|they like Tom #had# suffered a relapse.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_235.wav|they like Tom had #suffered# a relapse.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_236.wav|they like Tom had suffered #a# relapse.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_237.wav|they like Tom had suffered a #relapse.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_238.wav|It became the absorbing topic of village talk immediately.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_239.wav|#It# became the absorbing topic of village talk immediately.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_240.wav|It #became# the absorbing topic of village talk immediately.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_241.wav|It became the #absorbing# topic of village talk immediately.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_242.wav|It became the absorbing #topic# of village talk immediately.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_243.wav|It became the absorbing topic of #village# talk immediately.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_244.wav|It became the absorbing topic of village #talk# immediately.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_245.wav|It became the absorbing topic of village talk #immediately.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_246.wav|Tom could not get away from it.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_247.wav|#Tom# could not get away from it.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_248.wav|Tom #could# not get away from it.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_249.wav|Tom could #not# get away from it.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_250.wav|Tom could not #get# away from it.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_251.wav|Tom could not get #away# from it.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_252.wav|Tom could not get away #from# it.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_253.wav|Tom could not get away from #it.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_254.wav|It kept him in a cold shiver all the time.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_255.wav|#It# kept him in a cold shiver all the time.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_256.wav|It #kept# him in a cold shiver all the time.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_257.wav|It kept #him# in a cold shiver all the time.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_258.wav|It kept him #in# a cold shiver all the time.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_259.wav|It kept him in #a# cold shiver all the time.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_260.wav|It kept him in a #cold# shiver all the time.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_261.wav|It kept him in a cold #shiver# all the time.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_262.wav|It kept him in a cold shiver #all# the time.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_263.wav|It kept him in a cold shiver all the #time.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_264.wav|He took Huck to a lonely place to have a talk with him.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_265.wav|#He# took Huck to a lonely place to have a talk with him.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_266.wav|He #took# Huck to a lonely place to have a talk with him.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_267.wav|He took #Huck# to a lonely place to have a talk with him.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_268.wav|He took Huck to #a# lonely place to have a talk with him.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_269.wav|He took Huck to a #lonely# place to have a talk with him.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_270.wav|He took Huck to a lonely #place# to have a talk with him.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_271.wav|He took Huck to a lonely place to #have# a talk with him.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_272.wav|He took Huck to a lonely place to have #a# talk with him.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_273.wav|He took Huck to a lonely place to have a #talk# with him.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_274.wav|He took Huck to a lonely place to have a talk #with# him.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_2/audio_275.wav|He took Huck to a lonely place to have a talk with #him.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_0.wav|﻿His mood always determined his manner.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_1.wav|#﻿His# mood always determined his manner.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_2.wav|﻿His #mood# always determined his manner.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_3.wav|﻿His mood #always# determined his manner.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_4.wav|﻿His mood always #determined# his manner.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_5.wav|﻿His mood always determined #his# manner.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_6.wav|﻿His mood always determined his #manner.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_7.wav|Without a moment's hesitation he ran to her and said:.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_8.wav|#Without# a moment's hesitation he ran to her and said:.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_9.wav|Without #a# moment's hesitation he ran to her and said:.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_10.wav|Without a #moment's# hesitation he ran to her and said:.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_11.wav|Without a moment's #hesitation# he ran to her and said:.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_12.wav|Without a moment's hesitation #he# ran to her and said:.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_13.wav|Without a moment's hesitation he #ran# to her and said:.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_14.wav|Without a moment's hesitation he ran to #her# and said:.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_15.wav|Without a moment's hesitation he ran to her #and# said:.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_16.wav|Without a moment's hesitation he ran to her and #said:.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_17.wav|“I acted mighty mean today, Becky, and I'm so sorry.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_18.wav|#“I# acted mighty mean today, Becky, and I'm so sorry.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_19.wav|“I #acted# mighty mean today, Becky, and I'm so sorry.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_20.wav|“I acted #mighty# mean today, Becky, and I'm so sorry.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_21.wav|“I acted mighty #mean# today, Becky, and I'm so sorry.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_22.wav|“I acted mighty mean #today,# Becky, and I'm so sorry.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_23.wav|“I acted mighty mean today, #Becky,# and I'm so sorry.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_24.wav|“I acted mighty mean today, Becky, #and# I'm so sorry.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_25.wav|“I acted mighty mean today, Becky, and #I'm# so sorry.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_26.wav|“I acted mighty mean today, Becky, and I'm #so# sorry.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_27.wav|“I acted mighty mean today, Becky, and I'm so #sorry.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_28.wav|The girl stopped and looked him scornfully in the face:.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_29.wav|The #girl# stopped and looked him scornfully in the face:.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_30.wav|The girl #stopped# and looked him scornfully in the face:.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_31.wav|The girl stopped #and# looked him scornfully in the face:.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_32.wav|The girl stopped and #looked# him scornfully in the face:.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_33.wav|The girl stopped and looked #him# scornfully in the face:.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_34.wav|The girl stopped and looked him #scornfully# in the face:.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_35.wav|The girl stopped and looked him scornfully #in# the face:.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_36.wav|The girl stopped and looked him scornfully in the #face:.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_37.wav|“I'll thank you to keep yourself to yourself, Mr.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_38.wav|#“I'll# thank you to keep yourself to yourself, Mr.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_39.wav|“I'll #thank# you to keep yourself to yourself, Mr.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_40.wav|“I'll thank #you# to keep yourself to yourself, Mr.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_41.wav|“I'll thank you to #keep# yourself to yourself, Mr.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_42.wav|“I'll thank you to keep #yourself# to yourself, Mr.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_43.wav|“I'll thank you to keep yourself to #yourself,# Mr.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_44.wav|“I'll thank you to keep yourself to yourself, #Mr.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_45.wav|I'll never speak to you again.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_46.wav|#I'll# never speak to you again.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_47.wav|I'll #never# speak to you again.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_48.wav|I'll never #speak# to you again.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_49.wav|I'll never speak to #you# again.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_50.wav|I'll never speak to you #again.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_51.wav|She tossed her head and passed on.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_52.wav|#She# tossed her head and passed on.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_53.wav|She #tossed# her head and passed on.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_54.wav|She tossed #her# head and passed on.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_55.wav|She tossed her #head# and passed on.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_56.wav|She tossed her head #and# passed on.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_57.wav|She tossed her head and #passed# on.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_58.wav|She tossed her head and passed #on.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_59.wav|But he was in a fine rage, nevertheless.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_60.wav|#But# he was in a fine rage, nevertheless.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_61.wav|But #he# was in a fine rage, nevertheless.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_62.wav|But he #was# in a fine rage, nevertheless.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_63.wav|But he was #in# a fine rage, nevertheless.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_64.wav|But he was in #a# fine rage, nevertheless.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_65.wav|But he was in a #fine# rage, nevertheless.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_66.wav|But he was in a fine #rage,# nevertheless.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_67.wav|But he was in a fine rage, #nevertheless.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_68.wav|He kept that book under lock and key.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_69.wav|#He# kept that book under lock and key.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_70.wav|He #kept# that book under lock and key.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_71.wav|He kept #that# book under lock and key.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_72.wav|He kept that #book# under lock and key.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_73.wav|He kept that book #under# lock and key.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_74.wav|He kept that book under #lock# and key.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_75.wav|He kept that book under lock #and# key.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_76.wav|He kept that book under lock and #key.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_77.wav|“How could I know you was looking at anything?”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_78.wav|#“How# could I know you was looking at anything?”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_79.wav|“How #could# I know you was looking at anything?”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_80.wav|“How could #I# know you was looking at anything?”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_81.wav|“How could I #know# you was looking at anything?”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_82.wav|“How could I know #you# was looking at anything?”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_83.wav|“How could I know you #was# looking at anything?”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_84.wav|“How could I know you was #looking# at anything?”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_85.wav|“How could I know you was looking #at# anything?”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_86.wav|“How could I know you was looking at #anything?”.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_87.wav|Then she stamped her little foot and said:.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_88.wav|#Then# she stamped her little foot and said:.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_89.wav|Then #she# stamped her little foot and said:.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_90.wav|Then she #stamped# her little foot and said:.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_91.wav|Then she stamped #her# little foot and said:.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_92.wav|Then she stamped her #little# foot and said:.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_93.wav|Then she stamped her little #foot# and said:.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_94.wav|Then she stamped her little foot #and# said:.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_95.wav|Then she stamped her little foot and #said:.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_96.wav|Tom stood still, rather flustered by this onslaught.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_97.wav|#Tom# stood still, rather flustered by this onslaught.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_98.wav|Tom #stood# still, rather flustered by this onslaught.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_99.wav|Tom stood #still,# rather flustered by this onslaught.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_100.wav|Tom stood still, #rather# flustered by this onslaught.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_101.wav|Tom stood still, rather #flustered# by this onslaught.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_102.wav|Tom stood still, rather flustered #by# this onslaught.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_103.wav|Tom stood still, rather flustered by #this# onslaught.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_104.wav|Tom stood still, rather flustered by this #onslaught.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_105.wav|Presently he said to himself:.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_106.wav|#Presently# he said to himself:.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_107.wav|Presently #he# said to himself:.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_108.wav|Presently he #said# to himself:.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_109.wav|Presently he said to #himself:.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_110.wav|Girls' faces always tell on them.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_111.wav|#Girls'# faces always tell on them.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_112.wav|Girls' #faces# always tell on them.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_113.wav|Girls' faces #always# tell on them.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_114.wav|Girls' faces always #tell# on them.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_115.wav|Girls' faces always tell #on# them.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_116.wav|Girls' faces always tell on #them.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_117.wav|They ain't got any backbone.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_118.wav|#They# ain't got any backbone.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_119.wav|They #ain't# got any backbone.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_120.wav|They ain't #got# any backbone.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_121.wav|They ain't got #any# backbone.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_122.wav|They ain't got any #backbone.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_123.wav|Tom joined the mob of skylarking scholars outside.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_124.wav|#Tom# joined the mob of skylarking scholars outside.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_125.wav|Tom #joined# the mob of skylarking scholars outside.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_126.wav|Tom joined the #mob# of skylarking scholars outside.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_127.wav|Tom joined the mob of #skylarking# scholars outside.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_128.wav|Tom joined the mob of skylarking #scholars# outside.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_129.wav|Tom joined the mob of skylarking scholars #outside.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_130.wav|In a few moments the master arrived and school “took in.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_131.wav|#In# a few moments the master arrived and school “took in.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_132.wav|In #a# few moments the master arrived and school “took in.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_133.wav|In a #few# moments the master arrived and school “took in.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_134.wav|In a few #moments# the master arrived and school “took in.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_135.wav|In a few moments the #master# arrived and school “took in.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_136.wav|In a few moments the master #arrived# and school “took in.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_137.wav|In a few moments the master arrived #and# school “took in.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_138.wav|In a few moments the master arrived and #school# “took in.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_139.wav|In a few moments the master arrived and school #“took# in.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_140.wav|In a few moments the master arrived and school “took #in.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_141.wav|” Tom did not feel a strong interest in his studies.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_142.wav|#”# Tom did not feel a strong interest in his studies.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_143.wav|” #Tom# did not feel a strong interest in his studies.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_144.wav|” Tom #did# not feel a strong interest in his studies.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_145.wav|” Tom did #not# feel a strong interest in his studies.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_146.wav|” Tom did not #feel# a strong interest in his studies.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_147.wav|” Tom did not feel #a# strong interest in his studies.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_148.wav|” Tom did not feel a #strong# interest in his studies.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_149.wav|” Tom did not feel a strong #interest# in his studies.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_150.wav|” Tom did not feel a strong interest #in# his studies.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_151.wav|” Tom did not feel a strong interest in #his# studies.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_152.wav|” Tom did not feel a strong interest in his #studies.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_153.wav|The denial only seemed to make the thing worse for Tom.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_154.wav|The #denial# only seemed to make the thing worse for Tom.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_155.wav|The denial #only# seemed to make the thing worse for Tom.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_156.wav|The denial only #seemed# to make the thing worse for Tom.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_157.wav|The denial only seemed to #make# the thing worse for Tom.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_158.wav|The denial only seemed to make the #thing# worse for Tom.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_159.wav|The denial only seemed to make the thing #worse# for Tom.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_160.wav|The denial only seemed to make the thing worse #for# Tom.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_161.wav|The denial only seemed to make the thing worse for #Tom.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_162.wav|I wouldn't say a word, not to save his life!”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_163.wav|#I# wouldn't say a word, not to save his life!”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_164.wav|I #wouldn't# say a word, not to save his life!”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_165.wav|I wouldn't #say# a word, not to save his life!”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_166.wav|I wouldn't say #a# word, not to save his life!”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_167.wav|I wouldn't say a #word,# not to save his life!”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_168.wav|I wouldn't say a word, #not# to save his life!”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_169.wav|I wouldn't say a word, not to #save# his life!”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_170.wav|I wouldn't say a word, not to save #his# life!”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_171.wav|I wouldn't say a word, not to save his #life!”.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_172.wav|Tom shot a glance at Becky.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_173.wav|#Tom# shot a glance at Becky.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_174.wav|Tom #shot# a glance at Becky.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_175.wav|Tom shot #a# glance at Becky.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_176.wav|Tom shot a #glance# at Becky.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_177.wav|Tom shot a glance #at# Becky.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_178.wav|Tom shot a glance at #Becky.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_179.wav|Instantly he forgot his quarrel with her.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_180.wav|#Instantly# he forgot his quarrel with her.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_181.wav|Instantly #he# forgot his quarrel with her.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_182.wav|Instantly he #forgot# his quarrel with her.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_183.wav|Instantly he forgot #his# quarrel with her.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_184.wav|Instantly he forgot his #quarrel# with her.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_185.wav|Instantly he forgot his quarrel #with# her.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_186.wav|Instantly he forgot his quarrel with #her.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_187.wav|There was no help for Becky now, he said.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_188.wav|#There# was no help for Becky now, he said.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_189.wav|There #was# no help for Becky now, he said.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_190.wav|There was #no# help for Becky now, he said.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_191.wav|There was no #help# for Becky now, he said.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_192.wav|There was no help #for# Becky now, he said.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_193.wav|There was no help for #Becky# now, he said.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_194.wav|There was no help for Becky #now,# he said.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_195.wav|There was no help for Becky now, #he# said.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_196.wav|There was no help for Becky now, he #said.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_197.wav|The next moment the master faced the school.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_198.wav|The #next# moment the master faced the school.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_199.wav|The next #moment# the master faced the school.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_200.wav|The next moment the #master# faced the school.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_201.wav|The next moment the master #faced# the school.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_202.wav|The next moment the master faced the #school.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_203.wav|Every eye sank under his gaze.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_204.wav|#Every# eye sank under his gaze.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_205.wav|Every #eye# sank under his gaze.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_206.wav|Every eye #sank# under his gaze.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_207.wav|Every eye sank #under# his gaze.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_208.wav|Every eye sank under #his# gaze.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_209.wav|Every eye sank under his #gaze.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_210.wav|Then he spoke: “Who tore this book?”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_211.wav|#Then# he spoke: “Who tore this book?”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_212.wav|Then #he# spoke: “Who tore this book?”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_213.wav|Then he #spoke:# “Who tore this book?”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_214.wav|Then he spoke: #“Who# tore this book?”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_215.wav|Then he spoke: “Who #tore# this book?”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_216.wav|Then he spoke: “Who tore #this# book?”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_217.wav|Then he spoke: “Who tore this #book?”.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_218.wav|There was not a sound.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_219.wav|#There# was not a sound.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_220.wav|There #was# not a sound.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_221.wav|There was #not# a sound.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_222.wav|There was not #a# sound.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_223.wav|There was not a #sound.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_224.wav|One could have heard a pin drop.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_225.wav|#One# could have heard a pin drop.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_226.wav|One #could# have heard a pin drop.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_227.wav|One could #have# heard a pin drop.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_228.wav|One could have #heard# a pin drop.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_229.wav|One could have heard #a# pin drop.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_230.wav|One could have heard a #pin# drop.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_231.wav|One could have heard a pin #drop.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_232.wav|“Benjamin Rogers, did you tear this book?”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_233.wav|#“Benjamin# Rogers, did you tear this book?”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_234.wav|“Benjamin #Rogers,# did you tear this book?”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_235.wav|“Benjamin Rogers, #did# you tear this book?”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_236.wav|“Benjamin Rogers, did #you# tear this book?”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_237.wav|“Benjamin Rogers, did you #tear# this book?”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_238.wav|“Benjamin Rogers, did you tear #this# book?”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_239.wav|“Benjamin Rogers, did you tear this #book?”.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_240.wav|“Joseph Harper, did you?”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_241.wav|#“Joseph# Harper, did you?”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_242.wav|“Joseph #Harper,# did you?”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_243.wav|“Joseph Harper, #did# you?”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_244.wav|“Joseph Harper, did #you?”.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_245.wav|“Susan Harper, did you do this?”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_246.wav|#“Susan# Harper, did you do this?”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_247.wav|“Susan #Harper,# did you do this?”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_248.wav|“Susan Harper, #did# you do this?”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_249.wav|“Susan Harper, did #you# do this?”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_250.wav|“Susan Harper, did you #do# this?”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_251.wav|“Susan Harper, did you do #this?”.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_252.wav|The next girl was Becky Thatcher.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_253.wav|The #next# girl was Becky Thatcher.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_254.wav|The next #girl# was Becky Thatcher.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_255.wav|The next girl #was# Becky Thatcher.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_256.wav|The next girl was #Becky# Thatcher.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_257.wav|The next girl was Becky #Thatcher.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_258.wav|A thought shot like lightning through Tom's brain.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_259.wav|#A# thought shot like lightning through Tom's brain.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_260.wav|A #thought# shot like lightning through Tom's brain.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_261.wav|A thought #shot# like lightning through Tom's brain.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_262.wav|A thought shot #like# lightning through Tom's brain.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_263.wav|A thought shot like #lightning# through Tom's brain.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_264.wav|A thought shot like lightning #through# Tom's brain.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_265.wav|A thought shot like lightning through #Tom's# brain.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_266.wav|A thought shot like lightning through Tom's #brain.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_267.wav|He sprang to his feet and shouted “I done it!”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_268.wav|#He# sprang to his feet and shouted “I done it!”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_269.wav|He #sprang# to his feet and shouted “I done it!”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_270.wav|He sprang to #his# feet and shouted “I done it!”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_271.wav|He sprang to his #feet# and shouted “I done it!”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_272.wav|He sprang to his feet #and# shouted “I done it!”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_273.wav|He sprang to his feet and #shouted# “I done it!”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_274.wav|He sprang to his feet and shouted #“I# done it!”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_275.wav|He sprang to his feet and shouted “I #done# it!”.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_276.wav|He sprang to his feet and shouted “I done #it!”.#
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_277.wav|The school stared in perplexity at this incredible folly.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_278.wav|The #school# stared in perplexity at this incredible folly.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_279.wav|The school #stared# in perplexity at this incredible folly.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_280.wav|The school stared #in# perplexity at this incredible folly.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_281.wav|The school stared in #perplexity# at this incredible folly.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_282.wav|The school stared in perplexity #at# this incredible folly.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_283.wav|The school stared in perplexity at #this# incredible folly.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_284.wav|The school stared in perplexity at this #incredible# folly.
+/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/audio_1/audio_285.wav|The school stared in perplexity at this incredible #folly.#
