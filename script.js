@@ -3,9 +3,12 @@ async function loadFileList() {
     const data = await response.text();
     const rows = data.split('\n').filter(row => row.trim() !== '');
 
+    // Get only the first 100 rows
+    const first100Rows = rows.slice(0, 100);
+
     const tableBody = document.getElementById('table-body');
 
-    rows.forEach(row => {
+    first100Rows.forEach(row => {
         const [filePath, description] = row.split('|').map(item => item.trim());
         
         // filePath = filePath.replace('/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/', 'resources/audio/emphTTS/en/vitsprosody030520241049PM/');
