@@ -4,7 +4,7 @@ async function loadFileList() {
     const rows = data.split('\n').filter(row => row.trim() !== '');
 
     // Get only the first 100 rows
-    const first100Rows = rows.slice(0, 100);
+    const first100Rows = rows.slice(0, 275);
 
     const tableBody = document.getElementById('table-body');
 
