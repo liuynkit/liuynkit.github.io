@@ -11,9 +11,11 @@ async function loadFileList() {
     first100Rows.forEach(row => {
         const [filePath, description] = row.split('|').map(item => item.trim());
         
-        // filePath = filePath.replace('/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/', 'resources/audio/emphTTS/en/vitsprosody030520241049PM/');
+        const newFilePath = filePath.replace('/project/tts/students/yining_ws/multi_lng/TTS/data/emph_fake_audio/', 'resources/audio/emphTTS/en/vitsprosody030520241049PM/');
+
+    // Debugging: Print the new file path and description
         // Debugging: Print the filePath and description
-        console.log('File Path:', filePath);
+        console.log('File Path:', newFilePath);
         console.log('Description:', description);
 
         const tr = document.createElement('tr');
@@ -28,7 +30,7 @@ async function loadFileList() {
         const audioCell = document.createElement('td');
         const audio = document.createElement('audio');
         audio.controls = true;
-        audio.src = filePath; // Ensure this path is accessible
+        audio.src = newFilePath; // Ensure this path is accessible
         audioCell.appendChild(audio);
         tr.appendChild(audioCell);
 
