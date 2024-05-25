@@ -17,7 +17,8 @@ async function loadFileList() {
 
         // Create description cell
         const descriptionCell = document.createElement('td');
-        descriptionCell.textContent = description;
+        descriptionCell.innerHTML = processDescription(description);
+        // descriptionCell.textContent = description;
         tr.appendChild(descriptionCell);
 
         // Create audio player cell
@@ -30,6 +31,17 @@ async function loadFileList() {
 
         tableBody.appendChild(tr);
     });
+}
+
+// Function to process description and wrap hashtag words in <strong> tags, removing the hashtags
+function processDescription(description) {
+    return description.split(' ').map(word => {
+        if (word.startsWith('#')) {
+            // Remove hashtags and wrap the word in both <strong> and <u> tags
+            return `<strong><u>${word.replace(/#/g, '')}</u></strong>`;
+        }
+        return word;
+    }).join(' ');
 }
 
 document.addEventListener('DOMContentLoaded', loadFileList);
